@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [eGyan Portal](https://github.com/anurag4002/eGyan-Portal/tree/main)
 
-- 🌱 I’m currently learning **B.Tech in Information Technology**
+- 🌱 I’m currently learning **B.Tech in Information Technology*
 
 - 👨‍💻 All of my projects are available at [https://github.com/anurag4002/eGyan-Portal/tree/main](https://github.com/anurag4002/eGyan-Portal/tree/main)
 
