@@ -70,7 +70,8 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag4002&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anurag4002)
+![GitHub Streak](https://streak-stats.demolab.com?user=anurag4002&theme=aura_dark)
+
 
 
 ---
