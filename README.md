@@ -42,7 +42,7 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
        height="30" width="40" />
 </a>
 <a href="https://linkedin.com/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+  <img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/anurag-mishra-9b1387224)"
        height="30" width="40" />
 </a>
 <a href="https://instagram.com/the_anurag_01" target="blank">
