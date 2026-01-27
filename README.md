@@ -10,7 +10,7 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 </p>
 
 <p align="left">
- <a href="https://x.com/Anurag_488" target="blank">
+ <a href="https://x.com/Anurag_488" target="blank"> 
   <img src="https://img.shields.io/twitter/follow/Anurag_488?logo=twitter&style=for-the-badge"
        alt="Anurag_488" />
 </a>
