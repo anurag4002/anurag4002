@@ -17,7 +17,7 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 
 </p>
 
----
+------
 
 ## 🚀 About Me
 - 🎓 **B.Tech in Information Technology (2022–2026)**
