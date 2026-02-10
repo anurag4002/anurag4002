@@ -67,10 +67,14 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 # 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-%23007396.svg?style=for-the-badge)
 ![Servlet](https://img.shields.io/badge/Servlet-%23007396.svg?style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
+![CDS](https://img.shields.io/badge/CDS%20View-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
+![OData](https://img.shields.io/badge/OData-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,6 +82,7 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black)
