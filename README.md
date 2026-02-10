@@ -28,6 +28,10 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 - ⚡ Fun fact: *I am so funny 😄*
 
 ----------
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arry043&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arry043&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arry043&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔭 Current Project
 - **eGyan Portal**  
