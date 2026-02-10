@@ -28,11 +28,7 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 - ⚡ Fun fact: *I am so funny 😄*
 
 ----------
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=anurag4002&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anurag4002&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag4002&theme=aura_dark&hide_border=false&layout=compact&cache_seconds=1800)
 
 ## 🔭 Current Project
 - **eGyan Portal**  
@@ -80,7 +76,7 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anurag4002&layout=compact) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag4002&show_icons=true) 
