@@ -69,8 +69,9 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=anurag4002&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag4002&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag4002&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag4002&show_icons=true&theme=radical)
 
 ---
 
