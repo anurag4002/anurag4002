@@ -64,8 +64,6 @@ I build the frontend of a banking application at **Mindmash Data Labs**, for bus
 
 <img src="https://streak-stats.demolab.com?user=anurag4002&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag4002&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-
 </div>
 
 ## Certifications
