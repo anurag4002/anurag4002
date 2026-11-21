@@ -1,74 +1,36 @@
-<h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
-<h3 align="center">Java Full Stack Developer | SAP ABAP | Backend Enthusiast</h3>
+# Anurag Mishra
 
-<img align="right" alt="coding" width="400"
-src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+Software Developer at Mindmash Data Labs, working on the frontend of a banking application.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anurag4002&label=Profile%20views&color=0e75b6&style=flat"
-       alt="anurag4002" />
-</p>
+- **Now:** React, TypeScript, Mantine, TanStack Query, Zod and Vitest on a banking application for business and retail customers (payments, transfers, credit cards, loans).
+- **Before that:** banners and page sections for a live retail storefront on HCL Commerce, built with Pug and SCSS.
+- **Also:** Java and SQL web applications with Servlets, JSP, JDBC and MySQL, and a hands-on SAP ABAP project with CDS Views and OData.
+- **Education:** B.Tech in Information Technology, GL Bajaj Institute of Technology and Management (CGPA 8.0/10).
 
-------
+## Projects
 
-## 🚀 About Me
-- 🎓 **B.Tech in Information Technology (2022–2026)**
-- 🏫 **GL Bajaj Institute of Technology & Management, Greater Noida**
-- 🌱 Currently focusing on **Core Java, Spring Boot, SQL & Backend Development**
-- 🔭 Working on **eGyan Portal (Java, JSP, Servlet, MySQL)**
-- 👯 Open to **student & open-source collaborations**
-- 📫 Reach me at **mishraanurag66031@gmail.com**
-- ⚡ Fun fact: *I enjoy building backend logic and solving real-world problems*
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Tender-Management](https://github.com/anurag4002/Tender-Management) | Tender bidding system for Admin and Vendor roles: 30+ vendors, 50+ bids, 15+ tenders, duplicate bids blocked at the database layer | Java, Servlets, JSP, JDBC, MySQL, Tomcat, Maven |
+| [eGyan-Portal](https://github.com/anurag4002/eGyan-Portal) | NOU-e-Gyan Portal work from my Softpro India internship | Java, Servlets, JDBC, MySQL, HTML, CSS, Bootstrap |
+| [IoT-Multifunctional-Car](https://github.com/anurag4002/IoT-Multifunctional-Car) | Arduino car with obstacle detection and remote navigation from a mobile GUI | Arduino, ultrasonic sensors |
+| [DSA-Problems](https://github.com/anurag4002/DSA-Problems) | Data structures and algorithms practice | Java |
 
----
+## Skills
 
+- **Frontend:** React, TypeScript, JavaScript, Mantine, TanStack Query, Zod, HTML, CSS/SCSS, Pug
+- **Testing:** Vitest
+- **Backend and data:** Java, Servlets, JSP, JDBC, Node.js, REST APIs, SQL, MySQL
+- **Tools:** Git, GitHub, Jira, HCL Commerce, Maven, Tomcat
+- **SAP:** ABAP, CDS Views, OData
 
+## Certifications
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=anurag4002&theme=aura_dark)
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- SAP Certified Associate: Back-End Developer (ABAP Cloud)
+- SAP Certified Associate: SAP Generative AI Developer
+- NPTEL: Programming in Java
 
----
+## Contact
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-mishra-9b1387224)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/anurag4002)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/the_anurag_01/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/the_anurag_01)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishraanurag66031@gmail.com)
-
----
-
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge)
-![JSP](https://img.shields.io/badge/JSP-%23007396.svg?style=for-the-badge)
-![Servlet](https://img.shields.io/badge/Servlet-%23007396.svg?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-
-![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
-![CDS](https://img.shields.io/badge/CDS%20View-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
-![OData](https://img.shields.io/badge/OData-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag4002&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag4002&show_icons=true&theme=radical)
-
----
-
-⭐ **Thanks for visiting my profile!**
+[LinkedIn](https://www.linkedin.com/in/anurag-mishra-9b1387224) · [LeetCode](https://leetcode.com/u/the_anurag_01/) · mishraanurag66031@gmail.com
